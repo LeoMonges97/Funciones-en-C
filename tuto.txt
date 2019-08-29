@@ -1,0 +1,7 @@
+Comandos de Git
+
+1. Debo tener un repositorio creado con readme.
+2. Para tenerlo uso el "git clone"
+3. Agregar los archivos nuevos o moidificados "git add ."
+4. git commit -m "mensaje del commit"
+5. Subo los datos con git push.
